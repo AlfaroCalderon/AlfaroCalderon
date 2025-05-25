@@ -48,20 +48,9 @@ Also, I am studying to become a full-stack junior developer, eager to expand my 
       </p>
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AlfaroCalderon&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
-    alt="AlfaroCalderon" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlfaroCalderon&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="AlfaroCalderon" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfaroCalderon&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AlfaroCalderon" /></p>
+| ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=AlfaroCalderon&show_icons=true&theme=react)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlfaroCalderon&theme=react)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfaroCalderon&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AlfaroCalderon&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
 
 <img src="https://res.cloudinary.com/dcostp8ak/image/upload/v1748187261/wallpaperflare.com_wallpaper_spgffd.jpg" width="100%" height="385px" alt="meadows">
       
