@@ -11,7 +11,12 @@
 - 📫 How to reach me **rodri.alfaro16@gmail.com**
 
 - ⚡ Fun fact: I like to play Death Stranding while listening to music.
-<br>
+<be>
+
+### Spotify Playing 🎧
+<a href="https://open.spotify.com/user/rodro.alfaro15" target="_blank">
+  <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,12 +42,14 @@
       alt="mysql" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
       alt="mysql" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" 
+          alt="visual_studio_code" width="40" height="40"/>
       </p>
 <br>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AlfaroCalderon&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AlfaroCalderon&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
     alt="AlfaroCalderon" 
     bg_color=#808080/></p>
 
