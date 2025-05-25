@@ -3,20 +3,21 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p> 
+<h2 align="left">💫 About Me:</h2>
+Hi, I'm Rodrigo Alfaro. I am currently a Junior Backend Developer, specializing in PHP, JavaScript, CSS, HTML, and MySQL. Passionate about creating efficient and scalable web solutions, I am dedicated to continuously enhancing my skills and understanding of full-stack development.
+Also, I am studying to become a full-stack junior developer, eager to expand my expertise across both backend and frontend technologies.
 
+- 🔭 I’m currently working in MINSAL as a software developer😁
 
 - 🌱 I'm currently learning Laravel and React frameworks.
 
 - 📫 How to reach me **rodri.alfaro16@gmail.com**
 
+- 🧗 I try to: Improve and learn new programming skills.
+
 - ⚡ Fun fact: I like to play Death Stranding while listening to music.
 <be>
-
-### Spotify Playing 🎧
-<a href="https://open.spotify.com/user/rodro.alfaro15" target="_blank">
-  <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify" />
-</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,4 +62,6 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfaroCalderon&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AlfaroCalderon" /></p>
+
+<img src="https://res.cloudinary.com/dcostp8ak/image/upload/v1748187261/wallpaperflare.com_wallpaper_spgffd.jpg" width="100%" height="385px" alt="meadows">
       
