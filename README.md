@@ -11,7 +11,7 @@
 Hi, I'm Rodrigo Alfaro. I am currently a Junior Backend Developer, specializing in PHP, JavaScript, CSS, HTML, and MySQL. Passionate about creating efficient and scalable web solutions, I am dedicated to continuously enhancing my skills and understanding of full-stack development.
 Also, I am studying to become a full-stack junior developer, eager to expand my expertise across both backend and frontend technologies.
 
-- 🔭 I’m currently working in MINSAL as a software developer😁
+- 🔭 I’m currently working at MINSAL as a software developer😁
 
 - 🌱 I'm currently learning Laravel and React frameworks.
 
