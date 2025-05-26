@@ -5,8 +5,8 @@
 <h3 align="center">Student at Kodigo Academy</h3>
 
 <br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p> 
+<br>
+<p><img align="right" src="https://res.cloudinary.com/dcostp8ak/image/upload/v1748272790/animation_500_kxa883sd_hegzrw.gif" alt="developer" /></p> 
 <h2 align="left">💫 About Me:</h2>
 Hi, I'm Rodrigo Alfaro. I am currently a Junior Backend Developer, specializing in PHP, JavaScript, CSS, HTML, and MySQL. Passionate about creating efficient and scalable web solutions, I am dedicated to continuously enhancing my skills and understanding of full-stack development.
 Also, I am studying to become a full-stack junior developer, eager to expand my expertise across both backend and frontend technologies.
